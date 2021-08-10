@@ -1,2 +1,2 @@
 # digital_clock
-Digital Clock using Python
+Digital Clock in Python using tkinter
